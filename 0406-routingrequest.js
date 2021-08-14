@@ -1,6 +1,6 @@
 // Filename: 0406-routingrequest.js
 // Course: Dicoding- Back End Basics
-// Description: Module 0406 Membangun Web Service menggunakan Node.js- Routing Request
+// Description: Module 0406 Membangun Web Service menggunakan Node.js- Routing request
 // Repository: 55-dicoding-backend-basic
 //
 // Author: Yugo Gautomo

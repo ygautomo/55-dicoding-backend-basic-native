@@ -1,21 +1,21 @@
 {
-   "name": "01-apps-dicoding",
-   "version": "1.0.0",
-   "description": "55 Dicoding Back-End Basic Online Course",
-   "main": "index.js",
-   "scripts": {
-     "test": "echo \"Error: no test specified\" && exit 1",
-     "start": "node server.js"
-   },
-   "repository": {
-     "type": "git",
-     "url": "git+https://github.com/ygautomo/55-dicoding-backend-basic-hapi.git"
-   },
-   "keywords": [],
-   "author": "",
-   "license": "ISC",
-   "bugs": {
-     "url": "https://github.com/ygautomo/55-dicoding-backend-basic-hapi/issues"
-   },
-   "homepage": "https://github.com/ygautomo/55-dicoding-backend-basic-hapi#readme"
- }
+	"name": "01-apps-dicoding",
+	"version": "1.0.0",
+	"description": "55 Dicoding Back-End Basic Online Course",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ygautomo/55-dicoding-backend-basic-hapi.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ygautomo/55-dicoding-backend-basic-hapi/issues"
+	},
+	"homepage": "https://github.com/ygautomo/55-dicoding-backend-basic-hapi#readme"
+}
